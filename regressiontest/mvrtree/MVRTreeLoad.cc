@@ -23,8 +23,6 @@
 
 #include <cstring>
 
-#include <cstring>
-
 // include library header file.
 #include <SpatialIndex.h>
 

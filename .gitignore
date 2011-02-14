@@ -1,0 +1,7 @@
+/autom4te.cache
+.libs
+.deps
+*.o/config.status
+/config.sub
+/config.guess
+/config.status
